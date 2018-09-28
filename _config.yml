@@ -33,6 +33,11 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/devinupreti"
+    - label: "Google"
+      icon: "fa fa-google"
+      url: "https://github.com/devinupreti"
+   
+      
       
 
 # Defaults
