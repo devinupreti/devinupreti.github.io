@@ -28,12 +28,12 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:dupreti@syr.com
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin-square"
+      icon: "fas fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/devinupreti/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/devinupreti"
-    - label: "Google"
+    - label: "Google1"
       icon: "fab fa-fw fa-google"
       url: "https://github.com/devinupreti"
    
