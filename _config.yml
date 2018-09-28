@@ -28,7 +28,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:dupreti@syr.com
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/devinupreti/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
