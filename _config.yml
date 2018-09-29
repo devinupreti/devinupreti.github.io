@@ -19,7 +19,7 @@ words_per_minute         : 200
 # Site Author
 author:
   name             : "Devin Upreti"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/large.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist / Software Developer"
   location         : "NY"
   email            :
