@@ -34,8 +34,8 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/devinupreti"
    
-      
-      
+paginate_path: /about/page:num           
+ 
 
 # Defaults
 defaults:
