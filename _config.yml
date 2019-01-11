@@ -38,7 +38,7 @@ paginate_path: /about/page:num
  
 
 # Defaults
-defaults:
+#defaults:
   # _posts
   #- scope:
   #    path: ""
