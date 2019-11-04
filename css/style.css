@@ -3,6 +3,8 @@ body {
 }
 
 .info {
-  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+  padding-top: 30vh;
+  font-family: 'Monaco';
   color: #fff4e4;
 }
