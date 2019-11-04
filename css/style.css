@@ -1,5 +1,8 @@
 body {
+  background-color: #f88020;
+}
+
+.info {
   font-family: 'Roboto Mono', monospace;
-  background-color: #fff4e4;
-  color: #f88020;
+  color: #fff4e4;
 }
