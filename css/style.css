@@ -1,10 +1,20 @@
 body {
-  background-color: #f88020;
+  background-color: #FFFFFF;
 }
 
 .info {
   text-align: center;
-  padding-top: 30vh;
   font-family: 'Monaco';
-  color: #fff4e4;
+  color: #800080;
 }
+
+.image {
+	text-align: center;
+}
+
+.links {
+	font-family: 'Monaco';
+  	color: #800080;
+  	text-align: center;
+}
+
