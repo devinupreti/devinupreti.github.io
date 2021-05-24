@@ -1,20 +1,40 @@
 body {
-  background-color: #FFFFFF;
+  background-color: #000000;
+  font-family: 'Arial';
+  font-size: 18px;
+  line-height: 1.3;
 }
 
-.info {
-  text-align: center;
-  font-family: 'Monaco';
-  color: #800080;
+a { 
+  color: inherit; 
+  text-decoration: none;
+} 
+
+a:hover {
+    color:#00A0C6; 
+    text-decoration:none; 
+    cursor:pointer;  
 }
 
 .image {
+	padding-top: 20px;
+	padding-bottom: 20px;
 	text-align: center;
 }
 
+.img {
+	border-radius: 20px 120px 20px 120px;
+}
+
+.info {
+  font-family: 'Monaco';	
+  text-align: center;
+  color: #FFFFFF;
+  font-size: 22px;
+}
+
 .links {
-	font-family: 'Monaco';
-  	color: #800080;
+  	color: #FFFFFF;
   	text-align: center;
 }
 
